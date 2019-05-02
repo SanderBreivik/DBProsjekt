@@ -7,8 +7,8 @@ import java.sql.Statement;
 import java.util.Properties;
 
 public class ConnectService {
-	private final String userName = "sandeb";
-	private final String password = "sander4";
+	private final String userName = "user";
+	private final String password = "pass";
 	private final String serverName = "mysql.stud.ntnu.no";
 	private final int portNumber = 3306;
 	private final String dbName = "sandeb_dbProsjekt";
